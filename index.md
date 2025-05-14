@@ -30,10 +30,13 @@ sections:
       image: /images/Updated.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Free Legal Clinic @ Sengkang CC
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: 📢📢📢📢 Sengkang North Free Legal Clinic 📢📢📢📢 We are pleased
+        to offer free legal consultations for Singapore Citizens residing in
+        Sengkang GRC.
+      button: Click here to register
       alt: Image alt text
+      image: /images/Sen.png
+      url: go.gov.sg/sknfla
 ---
