@@ -42,11 +42,4 @@ sections:
       alt: Image alt text
       image: /images/Sen.png
       url: go.gov.sg/sknfla
-  - infopic:
-      title: Sengkang
-      id: infopic
-      description: March Holiday courses
-      button: Click here for our courses
-      url: https://www.facebook.com/photo/?fbid=1347347274087299&set=pcb.1347347330753960
-      image: /images/Untitled.png
 ---
