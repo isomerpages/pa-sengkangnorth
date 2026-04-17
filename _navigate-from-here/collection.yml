@@ -4,6 +4,7 @@ collections:
     order:
       - Adviser Welcome.md
       - Welcome message or intro.md
+      - example-subfolder/Past Event 2.md
       - example-subfolder/Past event Number 1.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
