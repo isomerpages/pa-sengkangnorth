@@ -19,7 +19,7 @@ links:
       - title: Courses
         url: /courses/
       - title: Facility Booking
-        url: https://www.sengkangnorth.pa.gov.sg/facility-booking/
+        url: /facility-booking/
   - title: Our Community
     url: /permalink
     sublinks:
