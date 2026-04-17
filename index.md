@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Sengkang North Happenings
-      background: /images/480805089_964315742468441_6819703079466599027_n.jpg
+      title: Welcome to Sengkang CC
+      background: /images/sengkang_community_club_cdfb71f6_b279_4c61_a5db_c867c5ad981_resize_750.jpg
       key_highlights:
         - title: Exciting courses
           description: New courses at Sengkang CC
@@ -23,6 +23,9 @@ sections:
           description: Email us at Sengkang CC
           url: mailto:pa_sengkangcc@pa.gov.sg
       variant: center
+      subtitle: Where Neighbours Become friends
+      button: View Upcoming Events
+      url: https://www.onepa.gov.sg/events/search?events=&aoi=&sort=rel&outlet=Sengkang%20CC&showAllResults=true
   - infopic:
       title: Sunrise Specials at Sengkang North
       id: infopic
