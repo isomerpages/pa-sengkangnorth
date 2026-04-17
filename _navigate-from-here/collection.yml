@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Adviser Welcome.md
-      - Past Events.md
+      - Welcome message or intro.md
       - example-subfolder/Past event Number 1.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
