@@ -26,13 +26,4 @@ sections:
       subtitle: Where Neighbours Become friends
       button: View Upcoming Events
       url: https://www.onepa.gov.sg/events/search?events=&aoi=&sort=rel&outlet=Sengkang%20CC&showAllResults=true
-  - infopic:
-      title: Sunrise Specials at Sengkang North
-      id: infopic
-      description: Find breakfast sets and drinks at coffeeshops in Compassvale at a
-        lower prices, starting today!
-      button: Click here to find out more
-      url: https://www.facebook.com/photo/?fbid=1063964705758892&set=a.553508306804537
-      image: /images/Updated.png
-      alt: Image alt text
 ---
