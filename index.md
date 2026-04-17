@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Sengkang Community Club
-description: An Isomer site of the Singapore Government
+description: When Neighbours Become Friends
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
