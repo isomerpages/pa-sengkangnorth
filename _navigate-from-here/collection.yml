@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  navigate-from-here:
     output: true
     order:
       - Adviser Welcome.md
