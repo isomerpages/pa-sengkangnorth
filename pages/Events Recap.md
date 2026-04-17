@@ -4,3 +4,4 @@ permalink: /events-recap/
 variant: tiptap
 description: ""
 ---
+<p></p>
