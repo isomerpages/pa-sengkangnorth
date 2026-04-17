@@ -22,11 +22,6 @@ sections:
         - title: Our RC/RN Centers
           description: FInd your RC/RN Centers
           url: https://padlet.com/sengkangnorth/sengkang-north-rcrns-6wprxe9k96ps54k5
-        - title: Contact us
-          description: Email us at Sengkang CC
-          url: mailto:pa_sengkangcc@pa.gov.sg
       variant: center
       subtitle: Where Neighbours Become friends
-      button: View Upcoming Events
-      url: https://www.onepa.gov.sg/events/search?events=&aoi=&sort=rel&outlet=Sengkang%20CC&showAllResults=true
 ---
