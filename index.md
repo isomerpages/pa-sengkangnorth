@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Exciting courses
           description: New courses at Sengkang CC
-          url: https://www.onepa.gov.sg/cc/sengkang-cc
+          url: https://www.onepa.gov.sg/courses/search?course=&outlet=Sengkang%20CC&showAllResults=true
         - title: Join us as a Volunteer
           description: Building a Caring Community
           url: https://go.gov.sg/sknvolunteerform
