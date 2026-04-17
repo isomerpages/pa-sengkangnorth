@@ -1,6 +1,27 @@
 logo: /images/People_s_Association_Logo.png
 links:
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: Grassroots Adviser's Message
+        url: /permalink
+      - title: Our Social Media Channels
+        url: /permalink
+      - title: Getting to Us
+        url: /permalink
+  - title: Our Programmes
+    url: /permalink
+    sublinks:
+      - title: Upcoming Events
+        url: /permalink
+      - title: Events Recap
+        url: /permalink
+      - title: Courses
+        url: /permalink
+      - title: Facility Booking
+        url: /permalink
+  - title: Our Community
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Adviser Welcome
-    url: /example-page/
