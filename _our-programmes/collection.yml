@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Courses.md
       - Events Recap.md
       - Upcoming Events.md
