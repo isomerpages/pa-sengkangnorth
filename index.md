@@ -35,5 +35,6 @@ sections:
         to shape a community that we are proud to call home.
       button: Learn more
       url: xxxx
-      alt: Image alt text
+      alt: Recruitment
+      image: /images/SKN_Comms_eDM.png
 ---
