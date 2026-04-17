@@ -23,4 +23,8 @@ sections:
           url: https://padlet.com/sengkangnorth/sengkang-north-rcrns-6wprxe9k96ps54k5
       variant: center
       subtitle: Where Neighbours Become friends
+  - resources:
+      title: Featured Programmes
+      id: resources
+      button: More
 ---
