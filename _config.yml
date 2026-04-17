@@ -1,5 +1,5 @@
 title: Sengkang Community Club
-url: https://www.onepa.gov.sg
+url: https://www.sengkangnorth.pa.gov.sg
 favicon: /images/2.png
 colors:
   primary-color: "#eb1c25"
@@ -53,7 +53,7 @@ staging: https://staging-lite.d3al8c51d4trup.amplifyapp.com
 prod: https://master.d2i2flfiiwa4vn.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: event-photos
