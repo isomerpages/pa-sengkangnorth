@@ -2,11 +2,11 @@ title: Senkang Community Club
 url: https://www.onepa.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#edc5c5"
+  primary-color: "#e2b68e"
   secondary-color: "#e2b68e"
   media-colors:
     - title: media-color-one
-      color: "#f6caca"
+      color: "#e2b68e"
     - title: media-color-two
       color: "#7ed321"
     - title: media-color-three
