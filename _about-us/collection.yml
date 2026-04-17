@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Getting to Us.md
-      - Our Social Media Channels.md
       - Grassroots Adviser's Message.md
+      - Our Social Media Channels.md
+      - Getting to Us.md
