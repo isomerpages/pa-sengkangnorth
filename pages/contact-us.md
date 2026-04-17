@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Sengkang CC
+agency_name: Sengkang Community Club
 locations:
   - address:
       - 2 Sengkang Square
@@ -13,7 +13,7 @@ locations:
         time: 10.00am - 6.00pm
         description: Closed on Public Holidays
     maps_link: ""
-    title: Sengkang CC Office
+    title: Sengkang Community Club
 contacts:
   - content:
       - phone: +65 6312 5400
