@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Adviser Welcome.md
       - April 2026 Treeplanting.md
       - folder-page.md
       - example-subfolder/.keep
