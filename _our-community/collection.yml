@@ -2,5 +2,6 @@ collections:
   our-community:
     output: true
     order:
+      - COMMON GROUND.md
       - Volunteer With Us.md
       - Our Grassroots Organisations.md
