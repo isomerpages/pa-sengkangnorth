@@ -2,6 +2,7 @@ collections:
   navigate-from-here:
     output: true
     order:
+      - Past Event 2.md
       - Adviser Welcome.md
       - Welcome message or intro.md
       - example-subfolder/Past event Number 1.md
