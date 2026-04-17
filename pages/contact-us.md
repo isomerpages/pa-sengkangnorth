@@ -13,14 +13,7 @@ locations:
         time: 10.00am - 6.00pm
         description: Closed on Public Holidays
     maps_link: ""
-    title: Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    title: Sengkang CC Office
 contacts:
   - content:
       - phone: +65 6312 5400
