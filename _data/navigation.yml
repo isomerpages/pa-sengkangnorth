@@ -4,7 +4,7 @@ links:
     url: /permalink
     sublinks:
       - title: Grassroots Adviser's Message
-        url: /permalink
+        url: https://www.sengkangnorth.pa.gov.sg/grassroots-adviser-s-message/
       - title: Our Social Media Channels
         url: /permalink
       - title: Getting to Us
@@ -31,9 +31,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: About Us
-    collection: about-us
-  - title: Our Community
-    collection: our-community
-  - title: Our Programmes
-    collection: our-programmes
