@@ -27,4 +27,12 @@ sections:
       title: Featured Programmes
       id: resources
       button: More
+  - infopic:
+      title: Volunteer With Us
+      subtitle: BE A PART OF FAMILY
+      id: infopic
+      description: xxxxx
+      button: Learn more
+      url: xxxx
+      alt: Image alt text
 ---
