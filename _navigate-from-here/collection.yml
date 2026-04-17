@@ -1,5 +1,0 @@
-collections:
-  navigate-from-here:
-    output: true
-    order:
-      - Adviser Welcome.md
