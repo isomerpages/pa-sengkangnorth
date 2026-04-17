@@ -2,19 +2,19 @@ title: Sengkang Community Club
 url: https://www.onepa.gov.sg
 favicon: /images/2.png
 colors:
-  primary-color: "#ff0003"
-  secondary-color: "#ff0003"
+  primary-color: "#eb1c25"
+  secondary-color: "#eb1c25"
   media-colors:
     - title: media-color-one
-      color: "#ff0003"
+      color: "#eb1c25"
     - title: media-color-two
-      color: "#7ed321"
+      color: "#eb1c25"
     - title: media-color-three
-      color: "#7ed321"
+      color: "#eb1c25"
     - title: media-color-four
-      color: "#7ed321"
+      color: "#eb1c25"
     - title: media-color-five
-      color: "#7ed321"
+      color: "#eb1c25"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
