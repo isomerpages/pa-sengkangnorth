@@ -12,15 +12,15 @@ sections:
       title: Welcome to Sengkang CC
       background: /images/SKCC2.png
       key_highlights:
+        - title: Upcoming Events
+          description: Upcoming events at Sengkang CC
+          url: ""
         - title: Exciting courses
           description: New courses at Sengkang CC
           url: https://www.onepa.gov.sg/courses/search?course=&outlet=Sengkang%20CC&showAllResults=true
         - title: Join us as a Volunteer
           description: Building a Caring Community
           url: https://go.gov.sg/sknvolunteerform
-        - title: Our RC/RN Centers
-          description: FInd your RC/RN Centers
-          url: https://padlet.com/sengkangnorth/sengkang-north-rcrns-6wprxe9k96ps54k5
       variant: center
       subtitle: Where Neighbours Become friends
   - resources:
