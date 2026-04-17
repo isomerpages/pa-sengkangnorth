@@ -1,5 +1,0 @@
-collections:
-  past-event:
-    output: true
-    order:
-      - April 2026.md
