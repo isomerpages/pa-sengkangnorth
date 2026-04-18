@@ -33,4 +33,9 @@ you wish to contribute towards. As compared to GROs, you may determine
 your level of commitment such as on ad-hoc, once-off event basis. Meet
 like-minded individuals and come together to volunteer as a group towards
 a common community goal.</p>
-<p>Sign up as a Community Volunteer <a href="https://www.onepa.gov.sg/events/community-volunteers-needed--kebun-baru-co-71814060" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Sign up as a Community Volunteer <a href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/community-volunteering/" rel="noopener nofollow" target="_blank">here.</a>.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
