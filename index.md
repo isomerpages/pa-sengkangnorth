@@ -23,6 +23,7 @@ sections:
           url: https://go.gov.sg/sknvolunteerform
       variant: center
       subtitle: Where Neighbours Become friends
+      url: /upcoming-events/
   - resources:
       title: Featured Programmes
       id: resources
