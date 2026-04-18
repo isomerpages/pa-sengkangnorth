@@ -31,3 +31,5 @@ links:
         url: /common-ground/
   - title: Contact Us
     url: /contact-us/
+  - title: Media Gallery
+    resource_room: true
