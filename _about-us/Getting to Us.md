@@ -14,6 +14,9 @@ description: ""
 </p>
 <p>Other bus services at nearby bus stops: <strong>50, 119, 161, 163, 458, 677</strong>
 </p>
+<p><strong><u>Nearest bus interchange</u></strong>
+<br>- Compassvale Bus Interchange
+<br>- Sengkang Bus Interchange</p>
 <p><strong><u>By MRT:</u></strong>
 <br>The nearest MRT station is <strong>Sengkang Station</strong> (North-East
 Line).
