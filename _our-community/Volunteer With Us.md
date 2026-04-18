@@ -24,16 +24,17 @@ bonds, encouraging residents to meet, share and connect. Within the GROs,
 you will take on various responsibilities, including sharing government
 policies, gathering feedback from residents, assisting those in need and
 organising programmes for outreach and engagement.</p>
-<p>There are many GROs that you can volunteer with at Kebun Baru. Find out
-more <a href="https://staging.dxm4smd2virsq.amplifyapp.com/our-community/our-grassroots-organisations/resident-networks/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>Join us as a grassroots volunteer by filling up this <a href="https://kebunbaru.pa.gov.sg/files/Volunteer_Registration_Form__2023_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Volunteer Registration Form</u></a>.</p>
+<p>There are many GROs that you can volunteer with at Sengkang North. Find
+out more <a href="/our-grassroots-organisations/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Join us as a grassroots volunteer by filling up this <a href="https://go.gov.sg/sknvolunteerform" rel="noopener noreferrer nofollow" target="_blank"><u>Volunteer Registration Form</u></a>.</p>
 <h5><strong>Volunteering as a Community Volunteer</strong></h5>
 <p>The Community Volunteer scheme aims to offer more <strong>flexibility in choosing specific cause-based or skills-based volunteering opportunities </strong>that
 you wish to contribute towards. As compared to GROs, you may determine
 your level of commitment such as on ad-hoc, once-off event basis. Meet
 like-minded individuals and come together to volunteer as a group towards
 a common community goal.</p>
-<p>Sign up as a Community Volunteer <a href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/community-volunteering/" rel="noopener nofollow" target="_blank">here.</a>.</p>
+<p>Sign up as a Community Volunteer <a href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/community-volunteering/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
