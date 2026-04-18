@@ -12,7 +12,7 @@ in your estate! Simply click the links below.</p>
 </p>
 </li>
 <li>
-<p>Instagram -&nbsp;<a href="https://www.instagram.com/thesengkangcc/" rel="noopener noreferrer nofollow" target="_blank">@sengkangcc</a>
+<p>Instagram -&nbsp;<a href="https://www.instagram.com/thesengkangcc/" rel="noopener noreferrer nofollow" target="_blank">@thesengkangcc</a>
 </p>
 </li>
 <li>
