@@ -20,7 +20,7 @@ sections:
           url: https://www.onepa.gov.sg/courses/search?course=&outlet=Sengkang%20CC&showAllResults=true
         - title: Join us as a Volunteer
           description: Building a Caring Community
-          url: https://go.gov.sg/sknvolunteerform
+          url: /volunteer-with-us/
       variant: center
       subtitle: Where Neighbours Become friends
       url: /upcoming-events/
