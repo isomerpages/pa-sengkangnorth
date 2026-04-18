@@ -33,8 +33,4 @@ you wish to contribute towards. As compared to GROs, you may determine
 your level of commitment such as on ad-hoc, once-off event basis. Meet
 like-minded individuals and come together to volunteer as a group towards
 a common community goal.</p>
-<p>One big area of interest in Kebun Baru are social work causes, and many
-dedicate their time and effort to uplifting individuals and families in
-our community. Find out more about our Hope Collective programmes <a href="https://kebunbaru.pa.gov.sg/social-causes/children-and-youths/children-football/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
-you may also sign up as a Community Volunteer to be a part of our team.</p>
 <p>Sign up as a Community Volunteer <a href="https://www.onepa.gov.sg/events/community-volunteers-needed--kebun-baru-co-71814060" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
