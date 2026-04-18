@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Our Grassroots Organisations/.keep
-      - Our Grassroots Organisations.md
       - Volunteer With Us.md
       - COMMON GROUND.md
