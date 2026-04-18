@@ -6,9 +6,9 @@ description: ""
 ---
 <h2><strong>Sunrise Specials</strong></h2>
 <p>Created with the resident in mind, Sunrise Specials is a special discounted
-breakfast initiative that allows residents to purchase a breakfast set
-during weekdays at an affordable price. Together with Koufu, Happy Hawkers
-and P12 Food Paradise, residents can look forward to:</p>
+breakfast initiative in partnership with with Koufu, Happy Hawkers and
+P12 Food Paradise that allows residents to purchase a breakfast set during
+weekdays at an affordable price.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Breakfast Sets at $2.00</strong>
@@ -19,8 +19,7 @@ and P12 Food Paradise, residents can look forward to:</p>
 </p>
 </li>
 </ul>
-<p>We are pleased to announce that Sunrise Specials is back for its second
-year running!</p>
+<h4>We are pleased to announce that Sunrise Specials is back for its second year running!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A4.png">
 </div>
