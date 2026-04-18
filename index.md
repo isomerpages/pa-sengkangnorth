@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Upcoming Events
           description: Upcoming events at Sengkang CC
-          url: ""
+          url: /upcoming-events/
         - title: Exciting courses
           description: New courses at Sengkang CC
           url: /courses/
