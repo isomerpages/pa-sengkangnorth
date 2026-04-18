@@ -28,14 +28,14 @@ organising programmes for outreach and engagement.</p>
 <p>There are many GROs that you can volunteer with at Sengkang North. Find
 out more <a href="/skn-rcrn/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/sknvolunteerform">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/skn_volunteer_button.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/skn_volunteer_button.png">
 </a>
 <h5><strong>Volunteering as a Community Volunteer</strong></h5>
 <p>The Community Volunteer scheme aims to offer more <strong>flexibility in choosing specific cause-based or skills-based volunteering opportunities </strong>that
 you wish to contribute towards. As compared to GROs, you may determine
 your level of commitment such as on ad-hoc, once-off event basis. Meet
 like-minded individuals and come together to volunteer as a group towards
-a common community goal.</p><a class="isomer-image-wrapper" href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/community-volunteering/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/skn_cv_button.png"></a>
+a common community goal.</p><a class="isomer-image-wrapper" href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/community-volunteering/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/skn_cv_button.png"></a>
 <p></p>
 <p></p>
 <p></p>
