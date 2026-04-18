@@ -29,7 +29,7 @@ links:
         url: /volunteer-with-us/
       - title: COMMON GROUND
         url: /common-ground/
-  - title: Contact Us
-    url: /contact-us/
   - title: Media Gallery
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
