@@ -25,7 +25,7 @@ you will take on various responsibilities, including sharing government
 policies, gathering feedback from residents, assisting those in need and
 organising programmes for outreach and engagement.</p>
 <p>There are many GROs that you can volunteer with at Sengkang North. Find
-out more <a href="/our-grassroots-organisations/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+out more <a href="/skn-rcrn/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p>Join us as a grassroots volunteer by filling up this <a href="https://go.gov.sg/sknvolunteerform" rel="noopener noreferrer nofollow" target="_blank"><u>Volunteer Registration Form</u></a>.</p>
 <h5><strong>Volunteering as a Community Volunteer</strong></h5>
 <p>The Community Volunteer scheme aims to offer more <strong>flexibility in choosing specific cause-based or skills-based volunteering opportunities </strong>that
