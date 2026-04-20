@@ -37,5 +37,5 @@ sections:
       button: Learn more
       url: xxxx
       alt: Recruitment
-      image: /images/SKN_Comms_eDM.png
+      image: /images/Volunteer.png
 ---
