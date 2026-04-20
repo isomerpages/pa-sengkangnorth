@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot__42_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_20_at_10_50_22_AM.png">
 </div>
 <p><strong><u>By Bus:</u></strong>
 <br>The nearest bus stop is <strong>Sengkang Community Hub</strong>.
