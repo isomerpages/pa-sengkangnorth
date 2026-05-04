@@ -25,7 +25,7 @@ sections:
           description: Directions to Sengkang CC
           url: /getting-to-us/
       variant: center
-      subtitle: Where Neighbours Become friends
+      subtitle: Where Neighbours Become Friends
       url: /upcoming-events/
   - resources:
       title: Featured Programmes
