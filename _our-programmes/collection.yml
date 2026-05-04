@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Upcoming Events.md
-      - Events Recap.md
       - Courses.md
       - Facility Booking.md
