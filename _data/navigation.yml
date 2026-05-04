@@ -18,6 +18,8 @@ links:
         url: /courses/
       - title: Facility Booking
         url: /facility-booking/
+      - title: OnePA
+        url: https://www.onepa.gov.sg/
   - title: Our Community
     url: /skn-rcrn/
     sublinks:
