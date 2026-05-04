@@ -4,7 +4,7 @@ permalink: /facility-booking/
 variant: tiptap
 description: ""
 ---
-<h3>Facility Booking</h3>
+<h2>Facility Booking</h2>
 <p>Bookings can be made at the Sengkang CC Counter (Level 1), up to <strong><u>14 days</u></strong> in
 advance. Please note that facility bookings are <strong><u>strictly</u></strong> for
 leisure use only.</p>
