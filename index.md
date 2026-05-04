@@ -28,9 +28,10 @@ sections:
       subtitle: Where Neighbours Become Friends
       url: /upcoming-events/
   - resources:
-      title: Featured Programmes
+      title: Events Recap
       id: resources
-      button: More
+      button: More Photos
+      subtitle: Media Gallery
   - infopic:
       title: Volunteer With Us
       subtitle: BE A PART OF FAMILY
