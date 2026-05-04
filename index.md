@@ -33,7 +33,7 @@ sections:
       button: More Photos
       subtitle: Media Gallery
   - textcards:
-      title: What's Up At Sengkang
+      title: What's Up At Sengkang?
       subtitle: Community Initiatives
       id: textcards
       cards:
