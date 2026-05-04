@@ -33,21 +33,22 @@ sections:
       button: More Photos
       subtitle: Media Gallery
   - textcards:
-      title: Community Initiatives
-      subtitle: What's Up At Sengkang
+      title: What's Up At Sengkang
+      subtitle: Community Initiatives
       id: textcards
       cards:
         - title: Sunrise Specials
-          description: Partnering with hawkers, one breakfast at a time
-          linktext: Read more
+          description: Partnering with our hawkers to provide affordable breakfast for our
+            residents
+          linktext: Click here
           url: /sunrise-specials/
         - title: Common Ground
-          description: Our first versatile community engagement space
-          linktext: Read more
+          description: Learn more about our first versatile community engagement space
+          linktext: Learn more
           url: /common-ground/
         - title: Facility Booking
-          description: Book our spaces
-          linktext: Learn more
+          description: Explore our different sports and events facilities at Sengkang CC
+          linktext: Check it out
           url: /facility-booking/
   - infopic:
       title: Volunteer With Us
