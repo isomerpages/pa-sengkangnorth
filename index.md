@@ -21,6 +21,9 @@ sections:
         - title: Join us as a Volunteer
           description: Building a Caring Community
           url: /volunteer-with-us/
+        - title: Getting Here
+          description: Directions to Sengkang CC
+          url: /getting-to-us/
       variant: center
       subtitle: Where Neighbours Become friends
       url: /upcoming-events/
@@ -38,4 +41,22 @@ sections:
       url: xxxx
       alt: Recruitment
       image: /images/Volunteer.png
+  - textcards:
+      title: Recent Events
+      subtitle: Check out our recent events!
+      id: textcards
+      description: Click to head to our Media Gallery
+      cards:
+        - title: Events Recap
+          description: Check out our recent events!
+          linktext: Read more
+          url: /events-recap/
+        - title: Upcoming Events
+          description: Explore upcoming events at Sengkang CC
+          linktext: Check it out
+          url: /upcoming-events/
+        - title: Media Gallery
+          description: Relive your favourite moments with us
+          linktext: Learn more
+          url: /event-photos
 ---
