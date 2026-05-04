@@ -14,8 +14,6 @@ links:
     sublinks:
       - title: Upcoming Events
         url: /upcoming-events/
-      - title: Events Recap
-        url: /events-recap/
       - title: Courses
         url: /courses/
       - title: Facility Booking
@@ -31,7 +29,7 @@ links:
         url: /sunrise-specials/
       - title: COMMON GROUND
         url: /common-ground/
-  - title: Media Gallery
+  - title: Events Recap
     resource_room: true
   - title: Contact Us
     url: /contact-us/
