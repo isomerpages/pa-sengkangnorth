@@ -12,7 +12,7 @@ locations:
       - days: Mon - Sun
         time: 10.00am - 6.00pm
         description: Closed on Public Holidays
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/cWDYvpxcCqk2jTHj8
     title: Sengkang Community Club
 contacts:
   - content:
