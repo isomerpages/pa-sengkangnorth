@@ -32,6 +32,23 @@ sections:
       id: resources
       button: More Photos
       subtitle: Media Gallery
+  - textcards:
+      title: Community Initiatives
+      subtitle: What's Up At Sengkang
+      id: textcards
+      cards:
+        - title: Sunrise Specials
+          description: Partnering with hawkers, one breakfast at a time
+          linktext: Read more
+          url: /sunrise-specials/
+        - title: Common Ground
+          description: Our first versatile community engagement space
+          linktext: Read more
+          url: /common-ground/
+        - title: Facility Booking
+          description: Book our spaces
+          linktext: Learn more
+          url: /facility-booking/
   - infopic:
       title: Volunteer With Us
       subtitle: BE A PART OF FAMILY
@@ -42,22 +59,4 @@ sections:
       url: /volunteer-with-us/
       alt: Recruitment
       image: /images/Volunteer.png
-  - textcards:
-      title: Recent Events
-      subtitle: Check out our recent events!
-      id: textcards
-      description: Click to head to our Media Gallery
-      cards:
-        - title: Events Recap
-          description: Check out our recent events!
-          linktext: Read more
-          url: /events-recap/
-        - title: Upcoming Events
-          description: Explore upcoming events at Sengkang CC
-          linktext: Check it out
-          url: /upcoming-events/
-        - title: Media Gallery
-          description: Relive your favourite moments with us
-          linktext: Learn more
-          url: /event-photos
 ---
