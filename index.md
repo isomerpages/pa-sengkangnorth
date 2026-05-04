@@ -38,7 +38,7 @@ sections:
       description: Your ideas and involvement are important. Together, we can continue
         to shape a community that we are proud to call home.
       button: Learn more
-      url: xxxx
+      url: /volunteer-with-us/
       alt: Recruitment
       image: /images/Volunteer.png
   - textcards:
