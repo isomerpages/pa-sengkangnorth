@@ -27,11 +27,6 @@ sections:
       variant: center
       subtitle: Where Neighbours Become Friends
       url: /upcoming-events/
-  - resources:
-      title: Events Recap
-      id: resources
-      button: More Photos
-      subtitle: Media Gallery
   - textcards:
       title: What's Up At Sengkang?
       subtitle: Community Initiatives
@@ -60,4 +55,9 @@ sections:
       url: /volunteer-with-us/
       alt: Recruitment
       image: /images/Volunteer.png
+  - resources:
+      title: Events Recap
+      id: resources
+      button: More Photos
+      subtitle: Media Gallery
 ---
