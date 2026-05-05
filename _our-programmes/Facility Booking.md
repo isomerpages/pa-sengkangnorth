@@ -106,6 +106,6 @@ CC may use the spaces for events</p>
 <p></p>
 <p></p>
 <p></p>
-<p>For booking of Multipurpose Hall (MPH) bookings or facility rooms for
-your events, please write to us at <a href="mailto:pa_sengkangcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_sengkangcc@pa.gov.sg</a>.</p>
+<p>For private booking of Multipurpose Hall (MPH) bookings or facility rooms
+for your events, please write to us at <a href="mailto:pa_sengkangcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_sengkangcc@pa.gov.sg</a>.</p>
 <p></p>
