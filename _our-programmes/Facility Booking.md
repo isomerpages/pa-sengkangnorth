@@ -43,12 +43,12 @@ CC may use the spaces for events</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Futsal Court</strong>
+<p><strong>Futsal Court </strong>
 </p>
-<p>For Sengkang GRC residents only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$30/hr</p>
+<p>$30/hr <em><br>(Sengkang GRC residents only)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +57,8 @@ CC may use the spaces for events</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$6/hr (PAssion Member)</p>
-<p>$7/hr (Non-Member)</p>
+<p>$6/hr (PAssion Member)
+<br>$7/hr (Non-Member)</p>
 </td>
 </tr>
 </tbody>
@@ -75,29 +75,30 @@ CC may use the spaces for events</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Table Tennis</strong> (Mon &amp; Thu)</p>
+<p>Table Tennis (Mon &amp; Thur)</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Reserved for members of Table Tennis IG</p>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Badminton Court</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>$8/hr (PAssion Member)</p>
-<p>$10/hr (Non-Member)</p>
+<p>$8/hr (PAssion Member)
+<br>$10/hr (Non-Member)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Pickleball </strong>(Wed Only)</p>
-<p>Sengkang GRC resident only</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$8/hr (PAssion Member)</p>
-<p>$10/hr (Non-Member)</p>
+<p>$8/hr (PAssion Member)
+<br>$10/hr (Non-Member<em><br>(Sengkang GRC residents only)</em>
+</p>
 </td>
 </tr>
 </tbody>
