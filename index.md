@@ -27,6 +27,16 @@ sections:
       variant: center
       subtitle: Where Neighbours Become Friends
       url: /upcoming-events/
+  - infopic:
+      title: Volunteer With Us
+      subtitle: BE A PART OF FAMILY
+      id: infopic
+      description: Your ideas and involvement are important. Together, we can continue
+        to shape a community that we are proud to call home.
+      button: Learn more
+      url: /volunteer-with-us/
+      alt: Recruitment
+      image: /images/Volunteer.png
   - textcards:
       title: What's Up At Sengkang?
       subtitle: Community Initiatives
@@ -45,16 +55,6 @@ sections:
           description: Explore our different sports and events facilities at Sengkang CC
           linktext: Check it out
           url: /facility-booking/
-  - infopic:
-      title: Volunteer With Us
-      subtitle: BE A PART OF FAMILY
-      id: infopic
-      description: Your ideas and involvement are important. Together, we can continue
-        to shape a community that we are proud to call home.
-      button: Learn more
-      url: /volunteer-with-us/
-      alt: Recruitment
-      image: /images/Volunteer.png
   - resources:
       title: Events Recap
       id: resources
