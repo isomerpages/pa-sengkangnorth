@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       title: Welcome to Sengkang CC
-      background: /images/SKCC2.png
+      background: /images/SJR_5640.jpg
       key_highlights:
         - title: Upcoming Events
           description: Upcoming events at Sengkang CC
