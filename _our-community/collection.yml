@@ -2,7 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - SengkangCares.md
       - Our Grassroots Organisations/.keep
       - Our Grassroots Organisations/Residents' Networks.md
       - Our Grassroots Organisations/Citizens' Consultative Committee.md
@@ -16,5 +15,6 @@ collections:
       - Our Grassroots Organisations/Malay Activity Executive Committee.md
       - Our Grassroots Organisations/Indian Activity Executive Committee.md
       - Volunteer With Us.md
+      - SengkangCares.md
       - Sunrise Specials.md
       - COMMON GROUND.md
