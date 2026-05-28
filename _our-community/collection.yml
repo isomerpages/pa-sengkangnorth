@@ -2,7 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Free Legal Clinic/SengkangCares.md
       - Free Legal Clinic/.keep
       - Our Grassroots Organisations/.keep
       - Our Grassroots Organisations/Residents' Networks.md
