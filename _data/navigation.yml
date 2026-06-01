@@ -23,18 +23,18 @@ links:
   - title: Our Community
     url: /skn-rcrn/
     sublinks:
+      - title: COMMON GROUND
+        url: /common-ground/
+      - title: Free Legal Clinic
+        url: /skn-free-legal-clinic/
+      - title: School Uniform Fund
+        url: /skn-suas/
+      - title: Sunrise Specials
+        url: /sunrise-specials/
       - title: Our Grassroots Organisations
         url: /skn-rcrn
       - title: Volunteer With Us
         url: /volunteer-with-us/
-      - title: Sunrise Specials
-        url: /sunrise-specials/
-      - title: COMMON GROUND
-        url: /common-ground/
-      - title: School Uniform Fund
-        url: /skn-suas/
-      - title: Free Legal Clinic
-        url: /skn-free-legal-clinic/
   - title: Events Recap
     resource_room: true
   - title: Contact Us
