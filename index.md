@@ -55,7 +55,7 @@ sections:
           description: Our newly launched scheme helps residents offset school attire
             purchase costs
           linktext: Learn more
-          url: ""
+          url: /skn-suas/
   - resources:
       title: Events Recap
       id: resources
