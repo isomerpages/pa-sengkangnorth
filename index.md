@@ -54,7 +54,7 @@ sections:
         - title: School Uniform Fund
           description: Our newly launched scheme helps residents offset school attire
             purchase costs
-          linktext: Learn more
+          linktext: Apply now
           url: /skn-suas/
   - resources:
       title: Events Recap
