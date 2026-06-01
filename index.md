@@ -51,10 +51,11 @@ sections:
           description: Learn more about our first versatile community engagement space
           linktext: Learn more
           url: /common-ground/
-        - title: Facility Booking
-          description: Explore our different sports and events facilities at Sengkang CC
-          linktext: Check it out
-          url: /facility-booking/
+        - title: School Uniform Fund
+          description: Our newly launched scheme helps residents offset school attire
+            purchase costs
+          linktext: Learn more
+          url: ""
   - resources:
       title: Events Recap
       id: resources
